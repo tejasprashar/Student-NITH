@@ -85,9 +85,9 @@ Result contains all the data about result of the student till the current semest
 <p align ="center">
     <img src="https://i.imgur.com/mlbruN8.jpeg" alt="login" width ="250" height="475"> &nbsp
 
-## Credits
+## Contributors
 
-* 20BCS009 - Anurag Tripathi
-* 20BCS014 - Priyanshu Rajput
-* 20BCS037 - Tejas Prashar
-* 20BCS074 - Adwaid K Sivaram
+* [Anurag Tripathi](https://github.com/triipaathii)
+* [Priyanshu Rajput](https://github.com/PriyanshuRj)
+* [Tejas Prashar](https://github.com/tejasprashar)
+* [Adwaid K Sivaram](https://github.com/adwaidk26)
